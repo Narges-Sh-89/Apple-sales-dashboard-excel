@@ -44,20 +44,19 @@ The goal was to transform raw transactional data into actionable insights using 
 
 ## 📷 Dashboard Preview
 
-### Overview
-![Dashboard](images/dashboard_overview.png)
-
 ### KPIs
-![KPIs](images/kpi_section.png)
+![KPIs](images/KPI Cards.jpg)
 
-### Product Analysis
-![Products](images/product_analysis.png)
+### Revenue Analysis
+![Slicers](images/Monthly Revenue Trend.jpg)
+
+### Product/Category Analysis
+![Products](images/Product-Category Exploration.jpg)
 
 ### Geography
-![Countries](images/country_analysis.png)
+![Countries](images/Revenue by Country.jpg)
 
-### Slicers
-![Slicers](images/slicer_interaction.png)
+
 
 ---
 
